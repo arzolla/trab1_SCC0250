@@ -6,4 +6,4 @@ Formas 2D e transformações com matrizes
 
 
 INSTRUÇÕES:
-Execute o arquivo dev/trab1.py para rodar o programa
+Execute o arquivo /dev/trab1.py para rodar o programa
